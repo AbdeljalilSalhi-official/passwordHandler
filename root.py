@@ -24,7 +24,7 @@ def checkGEN():
         hardGEN()
     else:
         noneGEN()
-    
+
 def easyGEN():
     global password, chars1
     password = ''
